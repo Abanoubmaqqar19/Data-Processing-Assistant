@@ -11,6 +11,8 @@ A **Streamlit-powered web application** that allows users to upload datasets (CS
 - **Rename Columns**: Rename columns in the dataset.
 - **Chatbot Interaction**: Chat with a Language Model to query the dataset and analyze data.
 - **Persist Data**: All user interactions are stored and persisted across sessions using **Streamlit’s session state**.
+- **handle duplicated values**
+- **handle missing values**
 
 ---
 
@@ -22,31 +24,20 @@ A **Streamlit-powered web application** that allows users to upload datasets (CS
 - **Python**: Core programming language for backend functionality.
 
 ---
-## Steps to Run the App
-1. Clone the repository.
-2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the app with `streamlit run Project.py`.
----
+
 ## Acknowledgments
 We would like to thank the following:
 - **Streamlit** for providing the app framework.
 - **LangChain** for enabling the use of language models.
 - **Ollama** For the pre-trained language model that powers the chatbot.
 ---
-## Usage
-this streamlit app used for:
-- **Upload Your Dataset**
-- **display a preview of the dataset once it’s successfully uploaded.**
-- **Change Data Type**
-- **Rename Columns**
-- **Chat with the Bot**
-- **handle duplicated values**
-- **handle missing values**
 
 
+## Steps to Run the App
+1. Clone the repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run the app with `streamlit run Project.py`.
 ---
-
-
 
 ### **Clone the repository:**
 ```bash
