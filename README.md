@@ -36,7 +36,7 @@ We would like to thank the following:
 ## Steps to Run the App
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the app with `streamlit run Project.py`.
+3. Run the app with `streamlit run quality.py`.
 ---
 
 ### **Clone the repository:**
