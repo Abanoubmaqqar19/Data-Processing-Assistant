@@ -20,7 +20,7 @@ A **Streamlit-powered web application** that allows users to upload datasets (CS
 - **Streamlit**: For creating the interactive web interface.
 - **Pandas**: For data manipulation and handling.
 - **LangChain**: To integrate and interact with Language Models.
-- **Ollama**: For integrating with a local LLM for querying data.
+- **Ollama**: For integrating with a local LLM(llama3.2:1b) for querying data.
 - **Python**: Core programming language for backend functionality.
 
 ---
@@ -46,6 +46,8 @@ cd your-repo-name
 ## **Install dependencies:**
 pip install -r requirements.txt
 
+
+> ⚠️ **Warning:** Make sure to follow the installation instructions carefully to avoid errors and install locall model (llama3.2:1b).
 
 
 
