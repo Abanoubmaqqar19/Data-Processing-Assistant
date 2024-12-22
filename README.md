@@ -22,7 +22,29 @@ A **Streamlit-powered web application** that allows users to upload datasets (CS
 - **Python**: Core programming language for backend functionality.
 
 ---
+## Steps to Run the App
+1. Clone the repository.
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Run the app with `streamlit run Project.py`.
+---
+## Acknowledgments
+We would like to thank the following:
+- **Streamlit** for providing the app framework.
+- **LangChain** for enabling the use of language models.
+- **Ollama** For the pre-trained language model that powers the chatbot.
+---
+## Usage
+this streamlit app used for:
+- **Upload Your Dataset**
+- **display a preview of the dataset once it’s successfully uploaded.**
+- **Change Data Type**
+- **Rename Columns**
+- **Chat with the Bot**
+- **handle duplicated values**
+- **handle missing values**
 
+
+---
 
 
 
@@ -32,6 +54,8 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ## **Install dependencies:**
 pip install -r requirements.txt
+
+
 
 
 
