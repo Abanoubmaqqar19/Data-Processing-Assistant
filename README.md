@@ -38,6 +38,8 @@ We would like to thank the following:
 2. Install dependencies using `pip install -r requirements.txt`.
 3. Run the app with `streamlit run quality.py`.
 ---
+ **Warning:** Make sure to follow the installation instructions carefully to avoid errors and install locall model (llama3.2:1b).
+
 
 ### **Clone the repository:**
 ```bash
@@ -47,7 +49,6 @@ cd your-repo-name
 pip install -r requirements.txt
 
 
- **Warning:** Make sure to follow the installation instructions carefully to avoid errors and install locall model (llama3.2:1b).
 
 
 
