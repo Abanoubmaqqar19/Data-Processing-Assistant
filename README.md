@@ -47,7 +47,7 @@ cd your-repo-name
 pip install -r requirements.txt
 
 
-> ⚠️ **Warning:** Make sure to follow the installation instructions carefully to avoid errors and install locall model (llama3.2:1b).
+ **Warning:** Make sure to follow the installation instructions carefully to avoid errors and install locall model (llama3.2:1b).
 
 
 
